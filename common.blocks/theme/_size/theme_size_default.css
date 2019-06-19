@@ -1,0 +1,15 @@
+.theme_size_default {
+  /*Значения размеров высоты текста*/
+  --text-height-s: 7px;
+  --text-height-m: 8px;
+  --text-height-1: 10px;
+  --text-height-x1: 11px;
+  --text-height-xx1: 13px;
+
+  /*Значения межстрочных интервалов*/
+  --line-spacing-s: 18px;
+  --line-spacing-m: 21px;
+  --line-spacing-1: 25px;
+  --line-spacing-x1: 28px;
+  --line-spacing-xx1: 34px;
+}
