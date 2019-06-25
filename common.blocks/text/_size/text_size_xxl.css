@@ -1,0 +1,8 @@
+.text_size_xxl {
+  font-size: var(--text-height-xxl);
+
+  --text-word-width-s: 36px;
+  --text-word-width-m: 88px;
+  --text-word-width-l: 184px;
+  --text-word-height: 13px;
+}

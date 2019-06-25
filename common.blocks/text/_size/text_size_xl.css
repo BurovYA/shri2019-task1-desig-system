@@ -1,0 +1,8 @@
+.text_size_xl {
+  font-size: var(--text-height-xl);
+
+  --text-word-width-s: 32px;
+  --text-word-width-m: 74px;
+  --text-word-width-l: 154px;
+  --text-word-height: 11px;
+}

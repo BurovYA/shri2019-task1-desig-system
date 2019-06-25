@@ -1,0 +1,8 @@
+.text_size_s {
+  font-size: var(--text-height-s);
+
+  --text-word-width-s: 20px;
+  --text-word-width-m: 48px;
+  --text-word-width-l: 100px;
+  --text-word-height: 7px;
+}

@@ -1,0 +1,7 @@
+.form__item_border_bottom {
+  border-bottom-style: solid; /*???*/
+}
+
+.form__item_border_bottom:last-of-type {
+  border-bottom: 0;
+}
