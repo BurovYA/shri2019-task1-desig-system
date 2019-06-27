@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+}
+
+@media only screen and (max-width: 1144px) {
+  .grid {
+    --screen-m: 1144px;
+  }
+}
